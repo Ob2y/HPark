@@ -22,3 +22,7 @@
 * **Publication:** *"Testing and Characterization of Monochromator for SCALES Calibration Unit,"* SPIE Vol. 
 * **UC Berkeley:** B.A. Astrophysics, Minor in Aerospace Engineering (GPA: 3.86). 
 * **UC Santa Cruz:** Astrophysics (GPA: 4.00, Dean's Honors). 
+
+### 🔬 Featured Research
+* [SCALES Monochromator Calibration](https://github.com/Ob2y/SCALES-Monochromator-Calibration) 
+  - Python-based spectral analysis for exoplanet atmospheric characterization.
